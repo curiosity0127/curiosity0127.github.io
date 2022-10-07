@@ -2,34 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://curiosity0127.github.io/blog/yankeesnews_20221004/</loc>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
+  </url><url>
     <loc>https://curiosity0127.github.io/blog/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/categories/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
-  </url><url>
-    <loc>https://curiosity0127.github.io/tags/mariners/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/tags/mlb/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/categories/mlb%E9%9B%9C%E8%AB%87%E7%A7%80/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/tags/</loc>
-    <lastmod>2022-10-01T19:13:00+08:00</lastmod>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
+  </url><url>
+    <loc>https://curiosity0127.github.io/tags/yankees/</loc>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/</loc>
+    <lastmod>2022-10-05T12:28:00+08:00</lastmod>
+  </url><url>
+    <loc>https://curiosity0127.github.io/tags/mariners/</loc>
     <lastmod>2022-10-01T19:13:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/blog/marinersnews_20221001/</loc>
     <lastmod>2022-10-01T19:13:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/tags/judge/</loc>
-    <lastmod>2022-09-29T16:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://curiosity0127.github.io/tags/yankees/</loc>
     <lastmod>2022-09-29T16:30:00+08:00</lastmod>
   </url><url>
     <loc>https://curiosity0127.github.io/blog/yankeesnews_20220928/</loc>
@@ -55,5 +58,8 @@
   </url><url>
     <loc>https://curiosity0127.github.io/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+  </url><url>
+    <loc>https://curiosity0127.github.io/project/jimmy_in_ohio/</loc>
+    <lastmod>2019-09-12T15:46:00+08:00</lastmod>
   </url>
 </urlset>
